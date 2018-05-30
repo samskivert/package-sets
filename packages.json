@@ -144,6 +144,13 @@
     "repo": "https://github.com/purescript/purescript-datetime.git",
     "version": "v4.0.0"
   },
+  "debug": {
+    "dependencies": [
+      "prelude"
+    ],
+    "repo": "https://github.com/garyb/purescript-debug.git",
+    "version": "v4.0.0"
+  },
   "distributive": {
     "dependencies": [
       "identity",
